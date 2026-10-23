@@ -1,0 +1,20 @@
+
+
+.frame{
+
+background-color: rgb(221, 221, 221); 
+width: 500px; 
+height: 300px;
+align-items: center;
+outline : 10px solid #000000;
+padding: 'auto'; 
+
+}
+
+.frame  :hover{
+
+   background-color: #a90505;
+
+}
+
+
